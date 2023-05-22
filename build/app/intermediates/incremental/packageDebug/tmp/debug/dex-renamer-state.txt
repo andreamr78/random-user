@@ -1,0 +1,4 @@
+#Fri Oct 21 17:39:29 CDT 2022
+base.0=/Users/andrea.montelongo/Documents/flutter/random_user/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
